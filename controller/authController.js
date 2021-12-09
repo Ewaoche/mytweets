@@ -3,6 +3,7 @@ const ErrorResponse = require('../utils/errorResponse');
 const sendEmail = require('../utils/sendEmail');
 const asyncHandler = require('../middleware/async');
 const User = require('../models/User');
+//const
 
 
 //@desc   Register users
